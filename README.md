@@ -4,7 +4,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-sabbar&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-sabbar)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-sabbar&layout=compact&theme=radical)](https://github.com/ayoub0x1/Ayoub0x1/blob/main/README.md)
 
 
