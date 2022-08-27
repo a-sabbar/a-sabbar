@@ -5,11 +5,17 @@
 <br />
 
 
+
 ## 📈 My Github status
 
+<p align="left">
+  <img width="43%" src="https://awesome-github-stats.azurewebsites.net/user-stats/a-sabbar?cardType=github&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=a-sabbar&theme=radical" />
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=a-sabbar&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-sabbar&layout=compact&theme=radical)](https://github.com/ayoub0x1/Ayoub0x1/blob/main/README.md)
+<p align="left">
+   <img width="40%" src="(https://github-readme-stats.vercel.app/api?username=a-sabbar&show_icons=true&theme=radical" />
+</p>
 
 
 ## 👨‍💻 My 42 status
