@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Achraf sabbar</h1>
-<h3 align="center">I'm a Front-End Developer From Morocco </br></br> Student at 1337 Future Is Loading</h3>
+<h3 align="center">Student at 1337 Future Is Loading</br> </br> I'm a Front-End Developer From Morocco </br></h3>
 <br />
 
 
