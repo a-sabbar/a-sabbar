@@ -20,5 +20,6 @@
 
 ## 👨‍💻 My 42 status
 
-
+<p align="center">
 [![asabbar's 42 stats](https://badge.mediaplus.ma/kettlebells/asabbar)](https://github.com/a-sabbar)
+</p>
