@@ -21,3 +21,9 @@
 ## 👨‍💻 My 42 status
 
 [![asabbar's 42 stats](https://badge.mediaplus.ma/kettlebells/asabbar)](https://github.com/a-sabbar)
+
+
+### :link: Connect with me:
+
+[![Linkedin Badge](https://img.shields.io/badge/-Achraf_Bettachi-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/a-sabbar/)
+
