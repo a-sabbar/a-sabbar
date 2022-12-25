@@ -25,5 +25,5 @@
 
 ### :link: Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Achraf_Bettachi-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/a-sabbar/)
+[![Linkedin Badge](https://img.shields.io/badge/-Achraf_Sabbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/a-sabbar/)
 
