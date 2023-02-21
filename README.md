@@ -8,20 +8,17 @@
 
 ## 📈 My Github status
 
-<p align="left">
+<p align="center">
   <img width="43%" src="https://awesome-github-stats.azurewebsites.net/user-stats/a-sabbar?cardType=github&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=a-sabbar&theme=radical" />
 </p>
 
-<p align="left">
+<p align="center">
    <img width="40%" src="(https://github-readme-stats.vercel.app/api?username=a-sabbar&show_icons=true&theme=radical" />
 </p>
 
 
 ## 👨‍💻 My 42 status
-
 [![asabbar's 42 stats](https://badge.mediaplus.ma/kettlebells/asabbar)](https://github.com/a-sabbar)
-
 
 ### :link: Connect with me:
 
