@@ -1,26 +1,33 @@
-### Hi there 👋
+**### Hi there, I'm Achraf Sabbar! 👋**
 
-<h1 align="center">Hi, I'm Achraf sabbar</h1>
-<h3 align="center">Student at 1337 Future Is Loading</br> </br> I'm a Front-End Developer From Morocco </br></h3>
-<br />
+**I'm a passionate front-end developer with a strong desire to master my craft. Welcome to my GitHub repository, where you can explore some of the projects I've worked on and my journey in the world of software development.**
 
+🌟 **Here's a bit about me:**
 
-
-## 📈 My Github status
-
-<p align="center">
-  <img width="43%" src="https://awesome-github-stats.azurewebsites.net/user-stats/a-sabbar?cardType=github&theme=radical" />
-</p>
-
-<p align="center">
-   <img width="40%" src="(https://github-readme-stats.vercel.app/api?username=a-sabbar&show_icons=true&theme=radical" />
-</p>
+- 💻 **I specialize in front-end development, creating captivating and user-friendly interfaces.**
+- 🌐 **I'm dedicated to improving my skills in full-stack development to build end-to-end solutions.**
 
 
-## 👨‍💻 My 42 status
-[![asabbar's 42 stats](https://badge.mediaplus.ma/kettlebells/asabbar)](https://github.com/a-sabbar)
+<br/>
+<br/>
 
-### :link: Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Achraf_Sabbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/a-sabbar/)
+
+
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<br/>
+<br/>
+
+🌐 Let's connect:
+
+- 💼 Check out my [LinkedIn](https://www.linkedin.com/in/a-sabbar/) profile.
+-  [![Linkedin Badge](https://img.shields.io/badge/-Achraf_Sabbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/a-sabbar/)
+
+**Thank you for visiting my GitHub profile. I'm excited to continue my journey in software development and learn from the amazing open-source community. Let's code and learn together!** 🚀
+<br/>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
