@@ -1,6 +1,9 @@
 **# Hi there, I'm Achraf Sabbar! 👋**
 
-**I'm a passionate front-end developer with a strong desire to master my craft. Welcome to my GitHub repository, where you can explore some of the projects I've worked on and my journey in the world of software development.**
+**Innovative full-stack web developer with expertise in Next.js, Angular, and Spring Boot.
+Experienced in backend development, AWS deployment, and CI/CD pipelines. Strong problem-
+solving skills and dedication to crafting dynamic digital solutions. Currently studying software
+engineering at 1337 Coding School.**
 
 🌟 **Here's a bit about me:**
 
